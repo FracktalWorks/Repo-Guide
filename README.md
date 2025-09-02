@@ -6,7 +6,7 @@ Central index of all repositories for **Touch UI**, **Firmware**, **Electronics*
 
 ## 📖 Legend
 
-- **Touch UI Repositories** – Interfaces for controlling printers via touchscreen. Some include firmware.  
+- **Touch UI Repositories** – Interfaces for controlling printers via touchscreen. Some (Twin/Dragon) include firmware.  
 - **Firmware** – Standalone firmware or firmware bundled inside Touch UI repositories.  
 - **Load Cell & QA** – Calibration and quality assurance tools for load cells.  
 - **Electronics** – Board files, wiring diagrams, and libraries for Fracktal machines.  
